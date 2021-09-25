@@ -132,6 +132,7 @@ That could be used out of the box in `knp_paginator.template.pagination` key:
 * `@KnpPaginator/Pagination/semantic_ui_pagination.html.twig`
 * `@KnpPaginator/Pagination/materialize_pagination.html.twig`
 * `@KnpPaginator/Pagination/tailwindcss_pagination.html.twig`
+* `@KnpPaginator/Pagination/tailwindcss_ui_pagination.html.twig`
 * `@KnpPaginator/Pagination/uikit_v3_pagination.html.twig`
 
 #### Additional sortable templates
